@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Han-Sang/Portfolio/static/css/main.cf38550b.css",
+    "main.js": "/Han-Sang/Portfolio/static/js/main.d83392ad.js",
+    "index.html": "/Han-Sang/Portfolio/index.html",
+    "main.cf38550b.css.map": "/Han-Sang/Portfolio/static/css/main.cf38550b.css.map",
+    "main.d83392ad.js.map": "/Han-Sang/Portfolio/static/js/main.d83392ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf38550b.css",
+    "static/js/main.d83392ad.js"
+  ]
+}
